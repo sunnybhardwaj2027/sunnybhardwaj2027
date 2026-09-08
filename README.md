@@ -1,7 +1,7 @@
-## Hi there , I'm Sunny Kumar 👋
+### Hi there, I'm Sunny Kumar 👋
 
 * 🔭 I'm currently working on full-stack web apps and agentic AI workflows.
-* ⚡ Fun fact: I love tackling complex algorithmic problems.
+* ⚡ Fun fact: I love tackling complex algorithmic problems and build efficient solutions.
 * 📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/sunny-kumar-10909728a/)
 
 ---
